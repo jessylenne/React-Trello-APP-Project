@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="Header">React Trello App</div>
+        <div className="Header">Aurevoir Julien & Nico !</div>
 
         <Board />
       </div>

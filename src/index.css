@@ -6,6 +6,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: url('https://trello-backgrounds.s3.amazonaws.com/57271e1bc7d9dce15243a238/1920x1152/9c557bd2583c9d3055517a870cff008e/New_Project.jpg');
+  background-position: 50%;
+  background-size: cover;
 }
 
 code {
